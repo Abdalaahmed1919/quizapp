@@ -1,0 +1,157 @@
+[
+    {
+        "title" : "Nuclear sizes are expressed in a unit named ",
+        "answer_1" : "Fermi" ,
+        "answer_2" : "Angstrom" ,
+        "answer_3" : "Newton" ,
+        "answer_4" : "Tesla"  ,
+        "reight_answer" : "Fermi"
+    } ,     {
+        "title" : "The speed of light will be minimum while passing through ",
+        "answer_1" : "water" ,
+        "answer_2" : "vaccum" ,
+        "answer_3" : "air" ,
+        "answer_4" : "glass"  ,
+        "reight_answer" : "glass"
+    } ,     {
+        "title" : "Which of the following is not a vector quantity? ",
+        "answer_1" : "speed" ,
+        "answer_2" : "torque" ,
+        "answer_3" : "velocity" ,
+        "answer_4" : "displacement"  ,
+        "reight_answer" : "speed"
+    } ,     {
+        "title" : "The most suitable unit for expressing nuclear radius is ",
+        "answer_1" : "micro" ,
+        "answer_2" : "fermi" ,
+        "answer_3" : "nanometre" ,
+        "answer_4" : "angstrom"  ,
+        "reight_answer" : "fermi"
+    } ,     {
+        "title" : "Which of the following is not the unit of time ",
+        "answer_1" : "Parallactic second" ,
+        "answer_2" : "Leap year" ,
+        "answer_3" : "Solar day" ,
+        "answer_4" : "Micro Second"  ,
+        "reight_answer" : "Parallactic second"
+    } ,     {
+        "title" : "An air bubble in water will act like a",
+        "answer_1" : "convex lens" ,
+        "answer_2" : "concave lens" ,
+        "answer_3" : "convex mirror" ,
+        "answer_4" : "concave mirror"  ,
+        "reight_answer" : "concave lens"
+    } ,     {
+        "title" : "Temperature can be expressed as derived quantity in terms of any of the following ",
+        "answer_1" : "length and mass" ,
+        "answer_2" : "mass and time" ,
+        "answer_3" : "length,mass and time" ,
+        "answer_4" : "in terms of none"  ,
+        "reight_answer" : "in terms of none"
+    } ,     {
+        "title" : "2.Which among the following is the fundamental quantity? ",
+        "answer_1" : "Volume" ,
+        "answer_2" : "Time" ,
+        "answer_3" : "Velocity" ,
+        "answer_4" : "Force"  ,
+        "reight_answer" : "Time"
+    } ,     {
+        "title" : "A solid ball of metal has a spherical cavity inside it. When the ball is heated the volume of the cavity will",
+        "answer_1" : "increase" ,
+        "answer_2" : "remain unaffected" ,
+        "answer_3" : "decrease" ,
+        "answer_4" : " have its shape changed"  ,
+        "reight_answer" : "increase"
+    } ,     {
+        "title" : "Rain drops acquire spherical shape due to ",
+        "answer_1" : "viscosity" ,
+        "answer_2" : "friction" ,
+        "answer_3" : "surface tension" ,
+        "answer_4" : "elasticity"  ,
+        "reight_answer" : "surface tension"
+    } ,     {
+        "title" : "1 Joule is Equal to",
+        "answer_1" : "10^3 ergs" ,
+        "answer_2" : "10^7 ergs" ,
+        "answer_3" : "10^6 ergs" ,
+        "answer_4" : "10^5 ergs"  ,
+        "reight_answer" : "10^7 ergs"
+    } ,     {
+        "title" : "Brightness of bulb depends on voltage or current?",
+        "answer_1" : "Current" ,
+        "answer_2" : "Voltage" ,
+        "answer_3" : "Both A & B" ,
+        "answer_4" : "None"  ,
+        "reight_answer" : "Both A & B"
+    } ,     {
+        "title" : "If a sound travels from air to water, the quantity that remain unchanged is",
+        "answer_1" : "velocity" ,
+        "answer_2" : "wavelength" ,
+        "answer_3" : "frequency" ,
+        "answer_4" : "amplitude"  ,
+        "reight_answer" : "frequency"
+    } ,     {
+        "title" : "The working of the quartz crystal in the watch is based on the ",
+        "answer_1" : "Piezo - electric Effect" ,
+        "answer_2" : "Photoelectric Effect" ,
+        "answer_3" : "Edison Effect" ,
+        "answer_4" : "Johnson Effect"  ,
+        "reight_answer" : "Piezo - electric Effect"
+    } ,    {
+        "title" : "Air pressure is usually highest when the air is ",
+        "answer_1" : "warm and moist" ,
+        "answer_2" : "warm and dry" ,
+        "answer_3" : "cool and dry" ,
+        "answer_4" : "cool and moist"  ,
+        "reight_answer" : "cool and moist"
+    } ,    {
+        "title" : "Sound following a flash of lightning is called",
+        "answer_1" : "Stoning" ,
+        "answer_2" : "Thunder" ,
+        "answer_3" : "Bolting" ,
+        "answer_4" : "Cloud clash"  ,
+        "reight_answer" : "Thunder"
+    } ,     {
+        "title" : "The rate of change of linear momentum of a body falling freely under gravity is equal to it's ____ ? ",
+        "answer_1" : "Kinetic Energy" ,
+        "answer_2" : "Potential Energy" ,
+        "answer_3" : "Weight" ,
+        "answer_4" : "Impulse"  ,
+        "reight_answer" : "Weight"
+    } ,     {
+        "title" : "Which is best used as a sound absorbing material in partition walls ? ",
+        "answer_1" : "Stone chips" ,
+        "answer_2" : "Glass - wool" ,
+        "answer_3" : "Steel" ,
+        "answer_4" : "Glass pieces"  ,
+        "reight_answer" : "Glass - wool"
+    }  ,     {
+        "title" : "No current will flow between two charged bodies if they have the same  ",
+        "answer_1" : "resistance" ,
+        "answer_2" : "charge" ,
+        "answer_3" : "potential" ,
+        "answer_4" : "charge/ potential ratio"  ,
+        "reight_answer" : "potential"
+    } ,     {
+        "title" : "A periscope works by the principle of ",
+        "answer_1" : "Total internal reflection" ,
+        "answer_2" : "Diffraction" ,
+        "answer_3" : "Refraction" ,
+        "answer_4" : "Reflection & Refraction"  ,
+        "reight_answer" : "Total internal reflection"
+    } ,     {
+        "title" : "What is the SI unit of pressure ",
+        "answer_1" : "Pascal" ,
+        "answer_2" : "Newton" ,
+        "answer_3" : "Dyne" ,
+        "answer_4" : "Jule"  ,
+        "reight_answer" : "Pascal"
+    } ,     {
+        "title" : "Masses of stars and galaxies are usually expressed in terms of ",
+        "answer_1" : "neutron mass" ,
+        "answer_2" : "solar mass" ,
+        "answer_3" : "earth's mass" ,
+        "answer_4" : "lunar mass"  ,
+        "reight_answer" : "solar mass"
+    } 
+]

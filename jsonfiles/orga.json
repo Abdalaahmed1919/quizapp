@@ -1,0 +1,143 @@
+[
+    {
+        "title" : "Which of the following is a chemical change ? ",
+        "answer_1" : "Melting of ice" ,
+        "answer_2" : "Dissolving sugar in water" ,
+        "answer_3" : "Boiling water" ,
+        "answer_4" : "Rusting of iron"  ,
+        "reight_answer" : "Rusting of iron"
+    } ,  {
+        "title" : "In a chemical reaction, the substances present before the reaction starts are called :",
+        "answer_1" : "Reactants" ,
+        "answer_2" : "Products" ,
+        "answer_3" : "Catalysts" ,
+        "answer_4" : "Chemicals"  ,
+        "reight_answer" : "Reactants"
+    } ,     {
+        "title" : "In a chemical equation, the number written in front of a chemical formula represents : ",
+        "answer_1" : "Atomic number" ,
+        "answer_2" : "Molecular mass" ,
+        "answer_3" : "Number of molecules" ,
+        "answer_4" : "Number of atoms or molecules taking part in the reaction"  ,
+        "reight_answer" : "Number of atoms or molecules taking part in the reaction"
+    } ,     {
+        "title" : "The balanced chemical equation for the reaction between hydrogen and oxygen to form water is : ",
+        "answer_1" : "H2 + O2 → H2O" ,
+        "answer_2" : "2H2 + O2 → 2H2O" ,
+        "answer_3" : "H2O → H2 + O2" ,
+        "answer_4" : "2H2O → 2H2 + O2"  ,
+        "reight_answer" : "2H2 + O2 → 2H2O"
+    } ,     {
+        "title" : "When a magnesium ribbon is burnt in the air, the product formed is : ",
+        "answer_1" : "Magnesium oxide" ,
+        "answer_2" : "Magnesium hydroxide" ,
+        "answer_3" : "Magnesium chloride" ,
+        "answer_4" : "Magnesium sulphate"  ,
+        "reight_answer" : "Magnesium oxide"
+    } ,     {
+        "title" : "The type of reaction in which two or more substances combine to form a single product is called:",
+        "answer_1" : "Decomposition reaction" ,
+        "answer_2" : "Double displacement reaction" ,
+        "answer_3" : "Combination reaction" ,
+        "answer_4" : "Displacement reaction"  ,
+        "reight_answer" : "Combination reaction"
+    } ,     {
+        "title" : "In which reaction do two compounds exchange their ions to form two new compounds?",
+        "answer_1" : "Displacement reaction" ,
+        "answer_2" : "Synthesis reaction" ,
+        "answer_3" : "Double displacement reaction" ,
+        "answer_4" : "Decomposition reaction"  ,
+        "reight_answer" : "Double displacement reaction"
+    } ,     {
+        "title" : "What is the product obtained when copper(II) oxide is heated with hydrogen gas?",
+        "answer_1" : "Copper oxide" ,
+        "answer_2" : "Copper metal" ,
+        "answer_3" : "Copper sulphate" ,
+        "answer_4" : "Copper chloride"  ,
+        "reight_answer" : "Copper metal"
+    } ,     {
+        "title" : "The reaction between an acid and a base to form salt and water is called:",
+        "answer_1" : "Oxidation-reduction reaction" ,
+        "answer_2" : "Decomposition reaction" ,
+        "answer_3" : "Neutralization reaction" ,
+        "answer_4" : "Double displacement reaction"  ,
+        "reight_answer" : "Neutralization reaction"
+    }  ,     {
+        "title" : "Which of the following statements is true regarding a decomposition reaction?",
+        "answer_1" : "A single reactant breaks down into two or more products." ,
+        "answer_2" : "Two or more reactants combine to form a single product." ,
+        "answer_3" : "A metal displaces another metal from its salt solution." ,
+        "answer_4" : "A non-metal displaces another non-metal from its compound."  ,
+        "reight_answer" : "A single reactant breaks down into two or more products."
+    }  ,     {
+        "title" : "In which reaction does a solid get separated from the solution?",
+        "answer_1" : "Neutralization reaction" ,
+        "answer_2" : "Redox reaction" ,
+        "answer_3" : "Precipitation reaction" ,
+        "answer_4" : "All of the above"  ,
+        "reight_answer" : "Precipitation reaction"
+    } ,     {
+        "title" : "In which reaction does the addition and the removal of oxygen takes place simultaneously?",
+        "answer_1" : "Oxidation reaction" ,
+        "answer_2" : "Redox reaction" ,
+        "answer_3" : "Reduction reaction" ,
+        "answer_4" : "Precipitation reaction "  ,
+        "reight_answer" : "Redox reaction"
+    }  ,     {
+        "title" : "Identify the type of reaction: H2 + Cl2 → 2HCl",
+        "answer_1" : "Decomposition reaction" ,
+        "answer_2" : "Double displacement reaction" ,
+        "answer_3" : "Combination reaction" ,
+        "answer_4" : "Displacement reaction"  ,
+        "reight_answer" : "Double displacement reaction"
+    } ,     {
+        "title" : "How is the decomposition of silver chloride carried out?",
+        "answer_1" : "By electricity" ,
+        "answer_2" : "By sunlight" ,
+        "answer_3" : "By heat" ,
+        "answer_4" : "By water"  ,
+        "reight_answer" : "By sunlight"
+    }  ,     {
+        "title" : "Which metal can prevent the corrosion of tin?",
+        "answer_1" : "Zinc" ,
+        "answer_2" : "Copper" ,
+        "answer_3" : "Lead" ,
+        "answer_4" : "Silver"  ,
+        "reight_answer" : "Zinc"
+    }  ,     {
+        "title" : "Lime water turns milky when ________ gas is passed through it. ",
+        "answer_1" : "H2" ,
+        "answer_2" : "CO" ,
+        "answer_3" : "CO2" ,
+        "answer_4" : "SO2"  ,
+        "reight_answer" : "CO2"
+    } ,     {
+        "title" : "Which gas is used in flush bags of chips to prevent oxidation?",
+        "answer_1" : "Helium" ,
+        "answer_2" : "Neon" ,
+        "answer_3" : "Nitrogen" ,
+        "answer_4" : "Argon"  ,
+        "reight_answer" : "Nitrogen"
+    } ,     {
+        "title" : "The removal of oxygen from a reactant is called ________ . ",
+        "answer_1" : "oxidation" ,
+        "answer_2" : "rancidity" ,
+        "answer_3" : "corrosion" ,
+        "answer_4" : "reduction"  ,
+        "reight_answer" : "reduction"
+    }  ,     {
+        "title" : "The colour of the precipitate formed when potassium chromate reacts with barium sulphate is _______",
+        "answer_1" : "white" ,
+        "answer_2" : "brown" ,
+        "answer_3" : "yellow" ,
+        "answer_4" : "red"  ,
+        "reight_answer" : "yellow"
+    } ,     {
+        "title" : "CaCO3 → CaO + CO2 is a ________ reaction. ",
+        "answer_1" : "decomposition" ,
+        "answer_2" : "displacement" ,
+        "answer_3" : "combination" ,
+        "answer_4" : "double displacement"  ,
+        "reight_answer" : "decomposition"
+    } 
+]

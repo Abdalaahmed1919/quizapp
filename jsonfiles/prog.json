@@ -1,0 +1,170 @@
+[
+    {
+        "title": "What is the programming term that refers to the process of identifying and fixing errors in a program?",
+        "answer_1": "testing",
+        "answer_2": "debugging",
+        "answer_3": "unit testing",
+        "answer_4": "integration testing",
+        "reight_answer": "debugging"
+    },
+    {
+        "title": "Who is the developer of the Python programming language?",
+        "answer_1": "Mark Zuckerberg ",
+        "answer_2": "Larry Page",
+        "answer_3": "Guido van Rossum",
+        "answer_4": "Bill Gates",
+        "reight_answer": "Guido van Rossum"
+    },
+    {
+        "title": "What is the term that refers to a set of commands that executes a specific function?",
+        "answer_1": "Array",
+        "answer_2": "Variable",
+        "answer_3": "Loop",
+        "answer_4": "Function",
+        "reight_answer": "Function"
+    },
+    {
+        "title": "What programming language is commonly used to build Android applications?",
+        "answer_1": "Java",
+        "answer_2": "Swift",
+        "answer_3": "Python",
+        "answer_4": "C++",
+        "reight_answer": "Java"
+    },
+    {
+        "title": "What language is used for developing iOS applications?",
+        "answer_1": "Python",
+        "answer_2": "Java",
+        "answer_3": "Swift",
+        "answer_4": "C++",
+        "reight_answer": "Swift"
+    },
+    {
+        "title": "What is HTML?",
+        "answer_1": "Hypertext Markup Language",
+        "answer_2": "Hypertext Transfer Protocol",
+        "answer_3": "Home Tool Markup Language",
+        "answer_4": "Hyper Tool Markup Language",
+        "reight_answer": "Hypertext Markup Language"
+    },
+    {
+        "title": "What is CSS?",
+        "answer_1": "Cascading Script Sheets",
+        "answer_2": "Cascading Script Styles",
+        "answer_3": "Cascading Style Structures",
+        "answer_4": "Cascading Style Sheets",
+        "reight_answer": "Cascading Style Sheets"
+    },
+    {
+        "title": "What is SQL?",
+        "answer_1": "Structured Query Language",
+        "answer_2": "Structured Question Language",
+        "answer_3": "Style Question Language",
+        "answer_4": "Script Query Language",
+        "reight_answer": "Structured Query Language"
+    },
+    {
+        "title": "What is the concept of 'conditions' in computer programming?",
+        "answer_1": "Loops",
+        "answer_2": "Conditions",
+        "answer_3": "Functions",
+        "answer_4": "Variables",
+        "reight_answer": "Conditions"
+    },
+    {
+        "title": "What is the name of the creator of the C language?",
+        "answer_1": "Dennis Ritchie",
+        "answer_2": "Linus Torvalds",
+        "answer_3": "Ken Thompson",
+        "answer_4": "Guido van Rossum",
+        "reight_answer": "Dennis Ritchie"
+    },
+    {
+        "title": "What is the primary purpose of a constructor in object-oriented programming?",
+        "answer_1": "To destroy objects",
+        "answer_2": "To create objects",
+        "answer_3": "To initialize object state",
+        "answer_4": "To declare object methods",
+        "reight_answer": "To initialize object state"
+    },
+    {
+        "title": "What is the difference between '==' and '===' operators in JavaScript?",
+        "answer_1": "'==' checks only for equality in value",
+        "answer_2": "'===' checks for equality in value and type",
+        "answer_3": "'==' checks for equality in value and type",
+        "answer_4": "'===' checks only for equality in value",
+        "reight_answer": "'===' checks for equality in value and type"
+    },
+    {
+        "title": "What is the purpose of version control systems like Git?",
+        "answer_1": "To write source code",
+        "answer_2": "To compile source code",
+        "answer_3": "To track changes in source code",
+        "answer_4": "To debug source code",
+        "reight_answer": "To track changes in source code"
+    },
+    {
+        "title": "What does the acronym 'API' stand for?",
+        "answer_1": "Application Process Interface",
+        "answer_2": "Advanced Programming Interface",
+        "answer_3": "Algorithmic Programming Interface",
+        "answer_4": "Application Programming Interface",
+        "reight_answer": "Application Programming Interface"
+    },
+    {
+        "title": "What is the purpose of the 'finally' block in a try-catch-finally statement in Java?",
+        "answer_1": "To execute code regardless of whether an exception is thrown or caught",
+        "answer_2": "To handle exceptions",
+        "answer_3": "To prevent exceptions",
+        "answer_4": "To define custom exceptions",
+        "reight_answer": "To execute code regardless of whether an exception is thrown or caught"
+    },
+    {
+        "title": "What is the purpose of the 'this' keyword in JavaScript?",
+        "answer_1": "To refer to the parent object",
+        "answer_2": "To refer to the current object",
+        "answer_3": "To refer to the child object",
+        "answer_4": "To refer to the global object",
+        "reight_answer": "To refer to the current object"
+    },
+    {
+        "title": "What is the role of an index in a database?",
+        "answer_1": "To speed up searches",
+        "answer_2": "To secure data",
+        "answer_3": "To store data",
+        "answer_4": "To structure data",
+        "reight_answer": "To speed up searches"
+    },
+    {
+        "title": "What is the purpose of the 'break' statement in a loop?",
+        "answer_1": "To execute code conditionally",
+        "answer_2": "To skip the current iteration and continue to the next one",
+        "answer_3": "To restart the loop from the beginning",
+        "answer_4": "To terminate the loop and exit it",
+        "reight_answer": "To terminate the loop and exit it"
+    },
+    {
+        "title": "What is the concept of 'inheritance' in object-oriented programming?",
+        "answer_1": "The ability of a class to inherit properties and methods from another class",
+        "answer_2": "The process of creating multiple instances of a class",
+        "answer_3": "The process of hiding implementation details",
+        "answer_4": "The process of breaking a program into smaller parts",
+        "reight_answer": "The ability of a class to inherit properties and methods from another class"
+    },
+    {
+        "title": "What does the term 'algorithm' refer to in computer science?",
+        "answer_1": "A step-by-step procedure for solving a problem",
+        "answer_2": "A programming language",
+        "answer_3": "A hardware component",
+        "answer_4": "A database query",
+        "reight_answer": "A step-by-step procedure for solving a problem"
+    },
+    {
+        "title": "What is the purpose of the 'addEventListener' method in JavaScript?",
+        "answer_1": "To attach an event handler to an element",
+        "answer_2": "To create a new element",
+        "answer_3": "To remove an event handler from an element",
+        "answer_4": "To manipulate CSS styles",
+        "reight_answer": "To attach an event handler to an element"
+    }
+]

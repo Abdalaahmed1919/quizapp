@@ -1,0 +1,152 @@
+[
+    {
+        "title" : "derivative sin x is a ",
+        "answer_1" : "cottan x" ,
+        "answer_2" : "cos x" ,
+        "answer_3" : "tan x" ,
+        "answer_4" : "cottan 1/x"  ,
+        "reight_answer" : "cos x"
+    } , 
+    {
+        "title" : "derivative cos x is a ",
+        "answer_1" : "cottan x" ,
+        "answer_2" : "cos x" ,
+        "answer_3" : "sin x " ,
+        "answer_4" : "- sin x"  ,
+        "reight_answer" : "- sin x"
+    } , 
+    {
+        "title" : "divrtive ln x  is a ",
+        "answer_1" : "x power 2" ,
+        "answer_2" : "x" ,
+        "answer_3" : "1/x" ,
+        "answer_4" : "1/2 x"  ,
+        "reight_answer" : "1/x"
+    } ,
+    {
+        "title" : "What is x2 + 1 differentiated with respect to x ?",
+        "answer_1" : "2x" ,
+        "answer_2" : "x" ,
+        "answer_3" : "x + 1" ,
+        "answer_4" : "2x + 1"  ,
+        "reight_answer" : "2x"
+    } ,
+    {
+        "title" : "What will be the derivative of this function f(x) = 1963",
+        "answer_1" : "infinty" ,
+        "answer_2" : "1964" ,
+        "answer_3" : "1" ,
+        "answer_4" : "None of the above"  ,
+        "reight_answer" : "None of the above"
+    } ,   
+    {
+        "title" : "What is the integral of 1 with respect to x ? ",
+        "answer_1" : "0.5x" ,
+        "answer_2" : "x + c" ,
+        "answer_3" : "1.25x" ,
+        "answer_4" : "2x"  ,
+        "reight_answer" : "x + c"
+    } , 
+    {
+        "title" : "What is x2 + 1 differentiated with respect to y ? ",
+        "answer_1" : "2x" ,
+        "answer_2" : "0" ,
+        "answer_3" : "xY + 1" ,
+        "answer_4" : "(x+1)y"  ,
+        "reight_answer" : "0"
+    } , 
+    {
+        "title" : "di What is the derivative of f(x) = 3x^2 + 4x - 1 with respect to x ? ",
+        "answer_1" : "6x + 4" ,
+        "answer_2" : "3x^2 + 4x" ,
+        "answer_3" : "6x + 4x - 1" ,
+        "answer_4" : "6x - 4"  ,
+        "reight_answer" : "6x + 4"
+    } , 
+    {
+        "title" : "derivative ln(sinx) ",
+        "answer_1" : "sinx/cottanx" ,
+        "answer_2" : "cosx/sinx" ,
+        "answer_3" : "tanx" ,
+        "answer_4" : "sinx/cosx"  ,
+        "reight_answer" : "cosx/sinx"
+    } , 
+    {
+        "title" : "What is the integral of 2/x with respect to x ? ",
+        "answer_1" : "lnx" ,
+        "answer_2" : "2lnx" ,
+        "answer_3" : "x" ,
+        "answer_4" : "0"  ,
+        "reight_answer" : "2lnx"
+    } , {
+        "title" : "Find the derivative of e^x2 ? ",
+        "answer_1" : "e^x2" ,
+        "answer_2" : "2x" ,
+        "answer_3" : "2e^x2" ,
+        "answer_4" : "2xe^x2"  ,
+        "reight_answer" : "2xe^x2" 
+    } , {
+        "title" : "What is the value of d/dx (sin⁡ x tan⁡ x) ? ",
+        "answer_1" : "sin⁡ x + tan⁡ x sec⁡ x" ,
+        "answer_2" : "cos⁡ x + tan⁡ x sec⁡ x" ,
+        "answer_3" : "sin⁡ x + tan⁡ x" ,
+        "answer_4" : "sin⁡ x + tan⁡ x sec^2⁡x"  ,
+        "reight_answer" : "sin⁡ x + tan⁡ x sec⁡ x" 
+    } , {
+        "title" : "What is the value of d/dx (sin⁡ x3 cos⁡ x2)? ",
+        "answer_1" : "3x2 cos x2 cos⁡ x3 + 2x sin⁡ x3 sin x2" ,
+        "answer_2" : "3x2 cos⁡ x2 cos⁡ x3 – 2x sin⁡ x3 sin x2" ,
+        "answer_3" : "2x cos x2 cos⁡ x3 – 2x sin⁡ x3 sin x2" ,
+        "answer_4" : "2x cos x2 cos⁡ x3 + 3x2 sin⁡ x3 sin x2"  ,
+        "reight_answer" : "3x2 cos⁡ x2 cos⁡ x3 – 2x sin⁡ x3 sin x2" 
+    } , {
+        "title" : "What is the value of d/dx(e^x sinx + e^x cos ⁡x)? ",
+        "answer_1" : "0" ,
+        "answer_2" : "2 cos⁡x" ,
+        "answer_3" : "2e^x.sin ⁡x" ,
+        "answer_4" : "2e^x.cos⁡ x"  ,
+        "reight_answer" : "2e^x.cos⁡ x" 
+    } , {
+        "title" : "What is the value of d/dx (e^x tan x) at x = 0? ",
+        "answer_1" : "0" ,
+        "answer_2" : "1" ,
+        "answer_3" : "-1" ,
+        "answer_4" : "2"  ,
+        "reight_answer" : "1" 
+    } , {
+        "title" : " Find ∫ 6x(x2+6)dx ? ",
+        "answer_1" : "(3x^4)/2+18x^2+C" ,
+        "answer_2" : "(3x^4)/2-18x+C" ,
+        "answer_3" : "(3x^4)/2-18x^2+C" ,
+        "answer_4" : "(3x^4)/2+x^2+C"  ,
+        "reight_answer" : "(3x^4)/2+18x^2+C" 
+    } , {
+        "title" : " Find ∫ (20x^3) / (1+x^4)dx? ",
+        "answer_1" : "5 log⁡(x^4)+C" ,
+        "answer_2" : "-5 log⁡(1+x^4)+C" ,
+        "answer_3" : "5 log⁡(1+x^4)+C" ,
+        "answer_4" : "log⁡(1+x^4)+C"  ,
+        "reight_answer" : "5 log⁡(1+x^4)+C" 
+    } , {
+        "title" : " Differentiate log(cos(sin(e^(x^3) ))) w.r.t x.? ",
+        "answer_1" : "–3x^2 e^(x^3) cose^(x^3) tan(sine^(x^3) )" ,
+        "answer_2" : "3x^2 e^(x^3) cose^(x^3) tan(sine^(x^3) )" ,
+        "answer_3" : "–3 e^(x^3)  cose^(x^3)  cos(sine^(x^3) )" ,
+        "answer_4" : "–x^2 e^(x^3) cose^(x^3) tan(sine^(x^3) )"  ,
+        "reight_answer" : "–3x^2 e^(x^3) cose^(x^3) tan(sine^(x^3) )" 
+    } , {
+        "title" : " Find the derivative of f(x) = sin(x^2).? ",
+        "answer_1" : "-sin(x^2)" ,
+        "answer_2" : "2xcos(x^2)" ,
+        "answer_3" : "-2xcos(x^2)" ,
+        "answer_4" : "-2xsin(x^2)"  ,
+        "reight_answer" : "2xcos(x^2)" 
+    } , {
+        "title" : " Find ∫ 6x(x2+6)dy ? ",
+        "answer_1" : "(3x^4)/2+18x^2+C" ,
+        "answer_2" : "(3x^4)/2-18x+C" ,
+        "answer_3" : "(3x^4)/2-18x^2+C" ,
+        "answer_4" : "None Of The Above"  ,
+        "reight_answer" : "None Of The Above" 
+    }
+]
